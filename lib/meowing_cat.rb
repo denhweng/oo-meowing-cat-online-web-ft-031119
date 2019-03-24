@@ -14,7 +14,7 @@ class Cat
   end 
   
   def meow
-    @meow
+    puts "meow!"
   end
   
 end
