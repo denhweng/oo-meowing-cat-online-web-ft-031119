@@ -1,5 +1,5 @@
 class Cat 
-  
+  def initialize 
   attr_accessor :name :meow 
   
   def name=(cat_name)
