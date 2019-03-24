@@ -3,7 +3,7 @@ class Cat
     @name = name 
     @meow = meow 
     
-  attr_accessor :name :meow 
+  attr_accessor :name
   
   def name=(cat_name)
     @name = cat_name
