@@ -9,7 +9,8 @@ class Cat
     @name 
   end 
   
-  def meow=(cat_sound)
+  def meow
     @meow
+  end
   
 end
